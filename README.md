@@ -8,3 +8,5 @@
 Si vous souhaitez télécharger ce projet afin que celui-ci fonctionne correctement veuillez télécharger le jeu de données ci-dessous :
 
 [Télécharger](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip)
+
+⚠️ Le notebook de l'EDA doit être exécuté avant celui de modélisation
