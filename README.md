@@ -1,4 +1,4 @@
-# Pret_a_depenser
+# Prêt à dépenser
 ![16796540347308_Data Scientist-P7-01-banner](https://github.com/KANTANDEV/Pret_a_depenser/assets/94462048/9bce0165-972b-48a4-a7f8-cb2bb29ad4ef)
 
 ![bannière](https://github.com/KANTANDEV/Pret_a_depenser/assets/94462048/1d71b2a0-e65c-455b-a8e5-556ac23f2b2e)
